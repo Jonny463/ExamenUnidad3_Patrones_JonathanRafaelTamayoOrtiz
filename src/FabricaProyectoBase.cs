@@ -18,6 +18,6 @@ namespace EvaluacionU3
             }
             return proyectos[version].Clone();
         }
-        public int TotalProyectosBase => proyectos.Count;
     }
 }
+
